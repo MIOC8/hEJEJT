@@ -107,7 +107,9 @@ $(document).ready(function(){
         pauseOnHover: true,
         pauseOnFocus: true,
         draggable: false,
-        centerMode: false
+        centerMode: false,
+        touchThreshold: 8
+
     });
 })
 

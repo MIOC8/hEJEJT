@@ -515,7 +515,7 @@ padding-bottom: 100px;
     
 }
 
-@media (max-Width: 400px) {
+@media (max-Width: 540px) {
     .row-shop__main {
         flex-direction: column;
     }
